@@ -1,0 +1,52 @@
+/* fonts for local use 2015-08-20 */
+/* v13 fonts */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Condensed'), local('RobotoCondensed-Regular'), url(../fonts/roboto/v13/RobotoCondensed-Regular.woff2) format('woff2'), url(../fonts/roboto/v13/RobotoCondensed-Regular.woff) format('woff');
+}
+
+/* v15 fonts */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(../fonts/roboto/v15/Roboto-Thin.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Thin.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(../fonts/roboto/v15/Roboto-Light.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(../fonts/roboto/v15/Roboto-Regular.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(../fonts/roboto/v15/Roboto-Medium.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Medium.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(../fonts/roboto/v15/Roboto-Bold.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Bold.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url(../fonts/roboto/v15/Roboto-Italic.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-Italic.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(../fonts/roboto/v15/Roboto-MediumItalic.woff2) format('woff2'), url(../fonts/roboto/v15/Roboto-MediumItalic.woff) format('woff');
+}
